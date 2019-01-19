@@ -10,7 +10,7 @@ namespace ProjTesteGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá");
+            Console.WriteLine("ola hoje");
         }
     }
 }
