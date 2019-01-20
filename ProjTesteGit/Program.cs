@@ -12,6 +12,7 @@ namespace ProjTesteGit
         {
             Console.WriteLine("ola hoje");
             Console.WriteLine("Olá, Tenha um bom domingo! 20/01/2019");
+            Console.WriteLine(";-)");
         }
     }
 }
