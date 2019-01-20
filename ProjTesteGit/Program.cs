@@ -11,6 +11,7 @@ namespace ProjTesteGit
         static void Main(string[] args)
         {
             Console.WriteLine("ola hoje");
+            Console.WriteLine("Olá, Tenha um bom domingo! 20/01/2019");
         }
     }
 }
